@@ -1,0 +1,13 @@
+.map{
+ height: 500px;
+ border-radius:10px;
+ /* background-color: blue; */
+ padding: 1em;
+ margin-top: 20px;
+ box-shadow: 0 0 8px black;
+
+}
+
+.map .map__container{
+ height: 100%;
+}
